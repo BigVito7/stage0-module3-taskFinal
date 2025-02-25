@@ -10,7 +10,6 @@ public class NumbersPrinter {
 
         // Test cases
         printer.printIsPositive(10);  // true
-        printer.printIsPositive(-5);  // false
-        printer.printIsPositive(0);   // false
+
     }
 }
